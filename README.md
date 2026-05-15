@@ -1,5 +1,5 @@
 
-```markdown
+
 # Retail Sales Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
