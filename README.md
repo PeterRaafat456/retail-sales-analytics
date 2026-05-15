@@ -40,8 +40,9 @@ Interactive Power BI dashboard analyzing 50,000+ retail transaction records. Des
 2. For the Power BI dashboard, download the .pbix file (if available)
 
 ## 📸 Sample Outputs
+<img width="1310" height="735" alt="image" src="https://github.com/user-attachments/assets/43b675c5-c58e-4096-ace1-9f7b61459908" />
 
-> Add screenshots of your Power BI dashboard here!
+<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/7c020b0b-28ed-4b78-b32f-f11d0f020b5f" />
 
 ---
 
